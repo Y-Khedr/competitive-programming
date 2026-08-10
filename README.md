@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 9 |
+| 46 | 14 |
 
 ---
 
@@ -14,13 +14,18 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (5)
-- [dp](#dp) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (21)
-- [math](#math) (8)
-- [sortings](#sortings) (3)
-- [strings](#strings) (11)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (6)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (5)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (27)
+- [math](#math) (13)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (4)
+- [strings](#strings) (14)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -36,6 +41,12 @@
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.java) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -43,14 +54,31 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/363/B%20-%20Fence/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.java) |
 
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/363/B%20-%20Fence/solution.java) |
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 
 ### greedy
 
@@ -61,6 +89,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 
 ### implementation
@@ -78,16 +107,22 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
+| 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.java) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 
 ### math
 
@@ -97,10 +132,21 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 584A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/584/A%20-%20Olesya%20and%20Rodion/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 
 ### sortings
 
@@ -108,6 +154,7 @@
 |---|---------|------------|----------|
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/456/A%20-%20Laptops/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 
 ### strings
@@ -115,6 +162,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/43/A%20-%20Football/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
@@ -125,6 +173,14 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
+| 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 
 ---
 
