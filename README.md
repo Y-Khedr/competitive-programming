@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 14 |
+| 50 | 15 |
 
 ---
 
@@ -16,16 +16,17 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
+- [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (28)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (15)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -57,6 +58,12 @@
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/363/B%20-%20Fence/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 
 ### data structures
 
@@ -143,6 +150,7 @@
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.java) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.java) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
 
@@ -186,6 +194,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 
 ---
 
