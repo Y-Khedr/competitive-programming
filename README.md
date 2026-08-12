@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 15 |
+| 51 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
@@ -21,12 +21,12 @@
 - [dp](#dp) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (28)
+- [implementation](#implementation) (29)
 - [math](#math) (16)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (15)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -41,6 +41,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 
 ### bitmasks
 
@@ -132,6 +133,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 
 ### math
 
@@ -194,6 +196,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 
 ---
