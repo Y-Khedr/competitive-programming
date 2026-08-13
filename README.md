@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 16 |
+| 53 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
@@ -25,7 +25,7 @@
 - [implementation](#implementation) (29)
 - [math](#math) (17)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (15)
 - [two pointers](#two-pointers) (3)
 
@@ -43,6 +43,7 @@
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
+| 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
 
 ### bitmasks
 
@@ -180,6 +181,7 @@
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/456/A%20-%20Laptops/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
+| 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
 
 ### strings
 
