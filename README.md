@@ -6,28 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 16 |
+| 55 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (29)
+- [implementation](#implementation) (30)
 - [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (15)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
@@ -59,6 +60,7 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/363/B%20-%20Fence/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -127,6 +129,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
@@ -209,6 +212,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
