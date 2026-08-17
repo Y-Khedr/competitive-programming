@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 16 |
+| 58 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
@@ -21,11 +21,11 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (32)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (33)
 - [math](#math) (17)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (15)
 - [two pointers](#two-pointers) (5)
 
@@ -43,6 +43,7 @@
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
 
@@ -109,6 +110,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.java) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
@@ -148,6 +150,7 @@
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
+| 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 
@@ -187,6 +190,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/456/A%20-%20Laptops/solution.java) |
+| 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Y-Khedr/competitive-programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
